@@ -9,16 +9,16 @@
 > 👩🏻‍💻 3rd Year
 
 ### I am a part of...
-숙명여자대학교 소프트웨어학회 FORZA 27th C Language mentor                 ```2022.3 ~ 2023.12```
-Likelion 12th: Backend Development                                 ```2024.3 ~ 2024.12```
-Google Developers Group on Campus Sookmyung: Machine Learning      ```2024.9 ~ 2024.12```
-Likelion 13th: Vice President & Backend Dev Mentor                 ```2025.1 ~ current```
+- 숙명여자대학교 소프트웨어학회 FORZA 27th C Language mentor                 ```2022.3 ~ 2023.12```
+- Likelion 12th: Backend Development                                 ```2024.3 ~ 2024.12```
+- Google Developers Group on Campus Sookmyung: Machine Learning      ```2024.9 ~ 2024.12```
+- Likelion 13th: Vice President & Backend Dev Mentor                 ```2025.1 ~ current```
 
 ### Experience
-- 제2회 신한 빅데이터 해커톤 참여                                         ```2023.10.4~2023.10.8```
-- AWS Cloud Club Camp ML/API Camp in South Korea 참여               ```2024.1.6```
-- Likelion 12th 중앙 Hackathon 참여                                  ```2024.8.6```
-- Likelion 12th 4호선 Hackathon **Excellence Award** 🏆             ```2024.11.16```
+- 제2회 신한 빅데이터 해커톤 참여                                          ```2023.10.4~2023.10.8```
+- AWS Cloud Club Camp ML/API Camp in South Korea 참여                ```2024.1.6```
+- Likelion 12th 중앙 Hackathon 참여                                   ```2024.8.6```
+- Likelion 12th 4호선 Hackathon **Excellence Award** 🏆              ```2024.11.16```
 
 ### Projects Overview
 
