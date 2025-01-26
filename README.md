@@ -1,6 +1,5 @@
 ## Chaemin Yu
-![82ACF533-BEC4-4442-9B14-122C66BC0115_1_105_c](https://github.com/user-attachments/assets/3893a298-a852-45e2-bc1b-1aa52a6f8b8a)
-<img src="https://github.com/user-attachments/assets/3893a298-a852-45e2-bc1b-1aa52a6f8b8a" alt="82ACF533-BEC4-4442-9B14-122C66BC0115_1_105_c" width="300">
+<img src="https://github.com/user-attachments/assets/3893a298-a852-45e2-bc1b-1aa52a6f8b8a" alt="82ACF533-BEC4-4442-9B14-122C66BC0115_1_105_c" width="200">
 
 ### About
 > 🏫 Sookmyung Women's University
