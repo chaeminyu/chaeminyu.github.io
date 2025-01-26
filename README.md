@@ -33,7 +33,7 @@
 ### Project 1) FinEdu AI : Cloud Native Financial Literacy Platform
 
 <details>
-<summary> **Project Details** </summary>
+<summary> FinEdu AI Details </summary>
 
 #### stacks
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -67,7 +67,7 @@
 ### Project 2) NUGU : Collaborative Self Introduction Platform
 
 <details>
-<summary> **Project Details** </summary>
+<summary> NUGU Details </summary>
   
 #### stacks
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -97,7 +97,7 @@
 ### Project 3) IMFINE : Financial Education Platform for Children
 
 <details>
-<summary> **Project Details** </summary>
+<summary> IMFINE Details </summary>
   
 #### stacks
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -108,7 +108,7 @@
 ### Project 4) VOYAGE : Intergenerational Mentoring Platform
 
 <details>
-<summary> **Project Details** </summary>
+<summary> VOYAGE Details </summary>
   
 #### stacks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
