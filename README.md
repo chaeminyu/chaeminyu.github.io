@@ -1,26 +1,26 @@
-## Chaemin Yu
+# Chaemin Yu
 <img src="https://github.com/user-attachments/assets/3893a298-a852-45e2-bc1b-1aa52a6f8b8a" alt="82ACF533-BEC4-4442-9B14-122C66BC0115_1_105_c" width="200">
 
-### About
+## About
 > 🏫 Sookmyung Women's University
 > 
 > 💻 Computer Science Major
 > 
 > 👩🏻‍💻 3rd Year
 
-### I am a part of...
+## I am a part of...
 - ```2022.3 ~ 2023.12``` 숙명여자대학교 소프트웨어학회 FORZA 27th C Language mentor                 
 - ```2024.3 ~ 2024.12``` Likelion 12th: Backend Development                                 
 - ```2024.9 ~ 2024.12``` Google Developers Group on Campus Sookmyung: Machine Learning      
 - ```2025.1 ~ current``` Likelion 13th: Vice President & Backend Dev Mentor              
 
-### Experience
+## Experience
 - 제2회 신한 빅데이터 해커톤 참여 (2023.10.4~2023.10.8)                             
 - AWS Cloud Club Camp ML/API Camp in South Korea 참여 (2024.1.6)
 - Likelion 12th 중앙 Hackathon 참여 (2024.8.6)
 - Likelion 12th 4호선 Hackathon **Excellence Award** 🏆 (2024.11.16)
 
-### Projects Overview
+## Projects Overview
 
 |   Duration    | Project    |  Role | Stack|
 | ------------- | ------------- | ---- | ---- |
@@ -30,10 +30,47 @@
 | 2024.10 ~ 2025.1| [Cloud Native App: FinEdu AI](https://github.com/chaeminyu/FinEdu-Backend.git) | Backend & Cloud Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
 | 2025.1 ~ | Coffee Chat Web App for SMWU Developers | Backend Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
 
+### FinEdu AI : Cloud Native Financial Literacy Platform
+#### stacks
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+#### objective
+- Deliver easy-to-understand summaries of recently web-crawled news using OpenAI API
+- Use Docker containers for environment consistency and deployment ease
+- Leveraging Kubernetes' autoscaling capabilities to ensure uninterrupted service even during dramatic market fluctuations
+#### contributions
+🛠️ Technical:
+- created web crawler with auto cleaning service (deletes news that are 30+ days old) that parses news content and connects to MySQL database using BeautifulSoup
+- created news summarizer using Spring Boot
+  - ```NewsSummarizeService```: @Scheduled annotation used for summarizing news content
+  - ```NewsSummaryService```: returns random summarization based on keyword-based search
+- MSA Architecture
+  - common module used for scanning entities, OpenAI API configuration and repositories
+  - configured build.gradle to work as MSA architecture
+- Docker
+  - created Dockerfiles for crawler, summarizer, and quiz module
+- Kubernetes
+  - created CronJob for crawler and PersistentVolume for MySQL
+📅 Process Improvement:
+- arranged communication tools such as Notion and GitHub
+- managed project schedule from start to finish
+- deployed AWS RDS server as test-database during testing for easier development / created MySQL server for actual deployment
 
-### Stacks
 
-#### Actively Using...
+### NUGU : Collaborative Self Introduction Platform
+#### stacks
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
+### IMFINE : Financial Education Platform for Children
+#### stacks
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
+### VOYAGE : Intergenerational Mentoring Platform
+#### stacks
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+## Stacks
+
+### Actively Using...
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -44,5 +81,5 @@
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-#### Have Experience in...
+### Have Experience in...
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)<img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
