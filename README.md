@@ -31,7 +31,7 @@
 | 2025.1 ~ | Coffee Chat Web App for SMWU Developers | Backend Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
 
 ### Project 1) FinEdu AI : Cloud Native Financial Literacy Platform
-
+---
 #### stacks
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
@@ -60,7 +60,7 @@
 - Deployed AWS RDS server as test-database during testing for easier development / created MySQL server for actual deployment
 
 ### Project 2) NUGU : Collaborative Self Introduction Platform
-  
+---
 #### stacks
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
@@ -85,13 +85,13 @@
 - Managed weekly dev calls between frontend team and backend team
 
 ### Project 3) IMFINE : Financial Education Platform for Children
-  
+---
 #### stacks
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
 
 ### Project 4) VOYAGE : Intergenerational Mentoring Platform
-  
+--- 
 #### stacks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
