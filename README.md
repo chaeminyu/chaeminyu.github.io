@@ -30,20 +30,20 @@
 | 2024.10 ~ 2025.1| [Cloud Native App: FinEdu AI](https://github.com/chaeminyu/FinEdu-Backend.git) | Backend & Cloud Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
 | 2025.1 ~ | Coffee Chat Web App for SMWU Developers | Backend Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
 
-### FinEdu AI : Cloud Native Financial Literacy Platform
+### Project 1) FinEdu AI : Cloud Native Financial Literacy Platform
 
 <details>
-<summary>Project Details</summary>
+<summary> **Project Details** </summary>
 
-#### Stacks
+#### stacks
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-#### Objective
+#### objective
 - Deliver easy-to-understand summaries of recently web-crawled news using OpenAI API
 - Use Docker containers for environment consistency and deployment ease
 - Leveraging Kubernetes' autoscaling capabilities to ensure uninterrupted service even during dramatic market fluctuations
 
-#### Contributions
+#### contributions
 🛠️ Technical:
 - Created web crawler with auto cleaning service (deletes news that are 30+ days old) that parses news content and connects to MySQL database using BeautifulSoup
 - Created news summarizer using Spring Boot
@@ -64,17 +64,56 @@
 
 </details>
 
-### NUGU : Collaborative Self Introduction Platform
+### Project 2) NUGU : Collaborative Self Introduction Platform
+
+<details>
+<summary> **Project Details** </summary>
+  
 #### stacks
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-### IMFINE : Financial Education Platform for Children
+#### objective
+- secure website by data encryption(UUID) and HTTPS
+- deployed using Amazon EC2, Amazon RDS, Amazon Route53
+
+#### contriubtions
+🛠️ Technical:
+- custom converter for array of quiz answers to String in order to prevent creating middle table in database
+- managed deployment process
+  - SSL certificate for HTTPS
+  - deployed and manages Amazon EC2 server, Amazon RDS server, and Amazon Route53
+- developed test service
+  - user can create own test
+  - website visitors can take test that user made
+  - rates & ranks test results
+  - finds user tests using @Query in ```TestRepository.java```
+ 
+📅 Process Improvement:
+- Arranged communication tools such as Notion and GitHub
+- Managed weekly dev calls between frontend team and backend team
+
+</details>
+
+### Project 3) IMFINE : Financial Education Platform for Children
+
+<details>
+<summary> **Project Details** </summary>
+  
 #### stacks
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-### VOYAGE : Intergenerational Mentoring Platform
+</details>
+
+
+### Project 4) VOYAGE : Intergenerational Mentoring Platform
+
+<details>
+<summary> **Project Details** </summary>
+  
 #### stacks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+</details>
 
 ## Stacks
 
