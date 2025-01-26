@@ -31,30 +31,38 @@
 | 2025.1 ~ | Coffee Chat Web App for SMWU Developers | Backend Developer | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> |
 
 ### FinEdu AI : Cloud Native Financial Literacy Platform
-#### stacks
+
+<details>
+<summary>Project Details</summary>
+
+#### Stacks
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-#### objective
+
+#### Objective
 - Deliver easy-to-understand summaries of recently web-crawled news using OpenAI API
 - Use Docker containers for environment consistency and deployment ease
 - Leveraging Kubernetes' autoscaling capabilities to ensure uninterrupted service even during dramatic market fluctuations
-#### contributions
+
+#### Contributions
 🛠️ Technical:
-- created web crawler with auto cleaning service (deletes news that are 30+ days old) that parses news content and connects to MySQL database using BeautifulSoup
-- created news summarizer using Spring Boot
+- Created web crawler with auto cleaning service (deletes news that are 30+ days old) that parses news content and connects to MySQL database using BeautifulSoup
+- Created news summarizer using Spring Boot
   - ```NewsSummarizeService```: @Scheduled annotation used for summarizing news content
   - ```NewsSummaryService```: returns random summarization based on keyword-based search
 - MSA Architecture
-  - common module used for scanning entities, OpenAI API configuration and repositories
-  - configured build.gradle to work as MSA architecture
+  - Common module used for scanning entities, OpenAI API configuration and repositories
+  - Configured build.gradle to work as MSA architecture
 - Docker
-  - created Dockerfiles for crawler, summarizer, and quiz module
+  - Created Dockerfiles for crawler, summarizer, and quiz module
 - Kubernetes
-  - created CronJob for crawler and PersistentVolume for MySQL
-📅 Process Improvement:
-- arranged communication tools such as Notion and GitHub
-- managed project schedule from start to finish
-- deployed AWS RDS server as test-database during testing for easier development / created MySQL server for actual deployment
+  - Created CronJob for crawler and PersistentVolume for MySQL
 
+📅 Process Improvement:
+- Arranged communication tools such as Notion and GitHub
+- Managed project schedule from start to finish
+- Deployed AWS RDS server as test-database during testing for easier development / created MySQL server for actual deployment
+
+</details>
 
 ### NUGU : Collaborative Self Introduction Platform
 #### stacks
