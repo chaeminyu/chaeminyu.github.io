@@ -8,7 +8,7 @@
 > 
 > 👩🏻‍💻 3rd Year
 
-## I am a part of...
+## I poured my heart into...
 - ```2022.3 ~ 2023.12``` 숙명여자대학교 소프트웨어학회 FORZA 27th C Language mentor                 
 - ```2024.3 ~ 2024.12``` Likelion 12th: Backend Development                                 
 - ```2024.9 ~ 2024.12``` Google Developers Group on Campus Sookmyung: Machine Learning      
