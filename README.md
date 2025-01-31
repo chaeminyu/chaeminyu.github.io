@@ -110,3 +110,11 @@
 
 ### Have Experience in...
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)<img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
+
+## Certificates
+- 멋쟁이사자처럼 12기 수료증
+![E004BE34-8512-4C8C-8558-789192F5E148_1_105_c](https://github.com/user-attachments/assets/9291cd32-b363-4939-89c4-f9b0bc775fb7)
+- 멋쟁이사자처럼 13기 부회장 임명장
+![C76D151E-933B-4EC7-80DC-24AC08957A3E_1_105_c](https://github.com/user-attachments/assets/45ce3347-83f9-40b6-934e-863bba1cec0c)
+- 멋쟁이사자처럼 12기 4호선톤 우수상장
+[2024 4호선톤 우수상(누구).pdf](https://github.com/user-attachments/files/18612154/2024.4.pdf)
