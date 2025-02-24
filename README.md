@@ -84,6 +84,8 @@
 - Arranged communication tools such as Notion and GitHub
 - Managed weekly dev calls between frontend team and backend team
 
+<!--
+
 ### Project 3) IMFINE : Financial Education Platform for Children
 ---
 #### stacks
@@ -94,6 +96,8 @@
 --- 
 #### stacks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+-->
 
 ## Stacks
 
