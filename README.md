@@ -6,7 +6,7 @@
 > 
 > 💻 Computer Science Major
 > 
-> 👩🏻‍💻 3rd Year
+> 👩🏻‍💻 4th Year
 
 ## I poured my heart into...
 - ```2022.3 ~ 2023.12``` 숙명여자대학교 소프트웨어학회 FORZA 27th C Language mentor                 
@@ -73,7 +73,7 @@
 - custom converter for array of quiz answers to String in order to prevent creating middle table in database
 - managed deployment process
   - SSL certificate for HTTPS
-  - deployed and manages Amazon EC2 server, Amazon RDS server, and Amazon Route53
+  - deployed and managed Amazon EC2 server, Amazon RDS server, and Amazon Route53
 - developed test service
   - user can create own test
   - website visitors can take test that user made
@@ -83,6 +83,26 @@
 📅 Process Improvement:
 - Arranged communication tools such as Notion and GitHub
 - Managed weekly dev calls between frontend team and backend team
+
+### Project 3) Coffee Chat Web Application for SMWU Developers
+---
+#### stacks
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+#### objective
+- secure website by HTTPS, Spring Cloud AWS and AWS Systems Manager Parameter Store
+- deployed using Amazon EC2, Amazon RDS
+- create CI/CD pipeline for deployment automation using Github Actions
+
+#### contriubtions
+🛠️ Technical:
+- managed system variables with AWS Systems Manager Parameter Store
+- deployed backend instance using AWS EC2
+- managed backend services (app, grafana, redis, prometheus) with Docker Compose
+- configured Nginx and implemented SSL certificate for HTTPS
+ 
+📅 Process Improvement:
+- automated backend deployment process using Github Actions
 
 <!--
 
