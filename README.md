@@ -1,142 +1,220 @@
 # Chaemin Yu
-> **Innovative backend engineer with proven leadership experience and expertise in cloud-native backend technologies**
+> **Innovative backend engineer with proven leadership experience and expertise in cloud-native technologies**
 
-<img src="https://github.com/user-attachments/assets/3893a298-a852-45e2-bc1b-1aa52a6f8b8a" alt="profile" width="200">
+<img src="https://github.com/user-attachments/assets/3893a298-a852-45e2-bc1b-1aa52a6f8b8a" alt="profile" width="250">
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaeminyu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaeminyu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaeminyu/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chaeminyu.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaeminyu@sookmyung.ac.kr)
+[![Phone](https://img.shields.io/badge/Phone-4285F4?style=for-the-badge&logo=google-voice&logoColor=white)](tel:+821029362752)
 
-## 🎓 Education
+## 📋 About Me
 
-- **Sookmyung Women's University** | Seoul, South Korea
-  - B.S. in Computer Science
-  - Expected Graduation: February 2026
+Backend developer and cloud engineering enthusiast with a focus on Spring Boot, container orchestration, and CI/CD pipelines. Experienced in developing robust, scalable web services using cloud-native technologies and microservices architecture. Passionate about DevOps practices and leading technical teams.
 
-- **International Community School** | Singapore
-  - 2014 - 2016
+- 🎓 **Education**: Sookmyung Women's University, B.S. in Computer Science (Expected Feb 2026)
+- 🌐 **Languages**: Korean (Native), English (Native)
+- 🚀 **Strengths**: Cloud-native development, CI/CD automation, technical team leadership
 
-## 🌟 Leadership & Experience
+## 👨‍💻 Professional Experience
 
 ### Likelion @ Sookmyung Women's University | Vice President & Backend Developer
 **2025.1 ~ Present**
-- Led recruitment initiatives resulting in the successful onboarding of 15 junior developers
-- Facilitated communication between executive board and general membership
-- Organized and led technical training sessions for web backend development
 
-### Current Affiliations
-- **AWS Cloud Clubs SMWU 3rd** | Member | 2025.1 ~ Present
-- **Google Developers Group on Campus Sookmyung** | Machine Learning | 2024.9 ~ 2024.12
-- **Likelion 12th** | Backend Development | 2024.3 ~ 2024.12
-- **FORZA 27th** | C Language mentor | 2022.3 ~ 2023.12
+- Led recruitment initiatives resulting in the successful onboarding of 15 junior developers
+- Facilitated communication between executive board and general membership to maintain alignment with club objectives
+- Organized and led technical training sessions to enhance members' development skills in web backend development
+- Created technical curriculum for Spring Boot development workshops
+- Mentored junior developers through paired programming and code reviews
+
+### Prior Roles & Affiliations
+
+| Duration | Organization | Role |
+|----------|--------------|------|
+| 2024.9 ~ 2024.12 | Google Developers Group on Campus Sookmyung | Machine Learning Member |
+| 2024.3 ~ 2024.12 | 멋쟁이사자처럼 Likelion 12th | Backend Developer |
+| 2022.3 ~ 2023.12 | 숙명여자대학교 소프트웨어학회 FORZA 27th | C Language Mentor |
 
 ## 🏆 Achievements & Events
 
-- Likelion 12th 4호선 Hackathon **Excellence Award** 🏆 (2024.11.16)
-- Likelion 12th 중앙 Hackathon 참여 (2024.8.6)
-- AWS AI/ML Ops Foundation (입문과정) 참여 (2024.5.3~2024.5.19)
-- AWS Cloud Club Camp ML/API Camp in South Korea 참여 (2024.1.6)
-- 제2회 신한 빅데이터 해커톤 참여 (2023.10.4~2023.10.8)
+- **Likelion 12th 4호선 Hackathon Excellence Award** (2024.11.16)
+  - Awarded for developing NUGU, a collaborative self-introduction platform
+  - Recognized for technical implementation and solution architecture
 
-## 💻 Projects
+- **Additional Events & Participation**
+  - Likelion 12th 중앙 Hackathon (2024.8.6)
+  - AWS AI/ML Ops Foundation Training (2024.5.3~2024.5.19)
+  - AWS Cloud Club Camp ML/API Camp in South Korea (2024.1.6)
+  - 제2회 신한 빅데이터 해커톤 (2023.10.4~2023.10.8)
 
-### [SookTeam](https://github.com/link-to-repository) - Cloud-Native Coffee Chat Platform
-**2025.1 ~ Present** | Backend & Cloud Developer
+## 🚀 Projects
 
-**Technologies**: 
+### Coffee Chat Web App for SMWU Developers
+**2025.1 ~ Present** | [GitHub Repository](https://github.com/sooktin/backend_repository)
+
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**Key Contributions**:
+A platform connecting SMWU developers for mentorship and networking opportunities.
+
+**Key Features:**
+- Secure user authentication and profile management
+- Mentor-mentee matching algorithm
+- Real-time appointment scheduling system
+- Interactive community forums
+
+**Technical Contributions:**
 - Enhanced developer productivity by transforming manual EC2 deployments into an automated CI/CD pipeline with GitHub Actions, cutting deployment cycles by 83%
-- Implemented containerized deployment architecture using Docker, ensuring consistent environment
+- Implemented containerized deployment architecture using Docker, ensuring consistent environment across development and production
 - Configured secure HTTPS communication with Nginx and SSL certificates
-- Engineered secure credential management system using AWS Parameter Store, creating a parameterized approach that streamlined developer workflows
+- Engineered secure credential management system using AWS Parameter Store to eliminate exposed credentials in codebase
+- Managed backend services (app, grafana, redis, prometheus) with Docker Compose for comprehensive monitoring
 
-### [FinEdu AI](https://github.com/chaeminyu/FinEdu-Backend.git) - Cloud-Native Financial Literacy Platform
-**2024.10 ~ 2025.1** | Backend & Cloud Developer
+### FinEdu AI - Cloud-Native Financial Literacy Platform
+**2024.10 ~ 2025.1** | [GitHub Repository](https://github.com/chaeminyu/FinEdu-Backend.git)
 
-**Technologies**:
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Key Contributions**:
-- Designed data management system using Kubernetes PV and MySQL, ensuring data integrity
-- Implemented microservices architecture handling traffic spikes with auto-scaling
-- Built fault-tolerant system for data processing services (crawler, summarizer, quiz generator)
-- Deployed system as containerized microservices using Docker
+A cloud-native platform that provides AI-generated financial education content from web-crawled news.
 
-**Technical Details**:
-- Created web crawler with auto cleaning service that parses news content using BeautifulSoup
-- Created news summarizer using Spring Boot with @Scheduled annotation for periodic tasks
-- Implemented MSA Architecture with common module for entities, OpenAI API configuration
-- Configured Kubernetes CronJob for crawler and PersistentVolume for MySQL
+**Objectives:**
+- Deliver easy-to-understand summaries of recently web-crawled news using OpenAI API
+- Use Docker containers for environment consistency and deployment ease
+- Leverage Kubernetes' autoscaling capabilities to ensure uninterrupted service during market fluctuations
 
-### [NUGU](https://github.com/Line4Thon-Nugu/Nugu-Backend) - Collaborative Self-introduction Web Service
-**2024.10 ~ 2024.11** | Backend Developer
+**Technical Contributions:**
+- Created web crawler with auto cleaning service (deletes news that are 30+ days old) that parses news content using BeautifulSoup
+- Developed news summarizer using Spring Boot with @Scheduled annotation for periodic summarization
+- Designed MSA Architecture with common module for entities, OpenAI API configuration and repositories
+- Implemented Docker containers for crawler, summarizer, and quiz module components
+- Created Kubernetes CronJob for crawler and PersistentVolume for MySQL data persistence
+- Arranged communication tools and managed project schedule from start to finish
+- Deployed AWS RDS server as test-database during development phases
 
-**Technologies**:
+### NUGU - Collaborative Self Introduction Platform 🏆
+**2024.10 ~ 2024.11** | [GitHub Repository](https://github.com/Line4Thon-Nugu/Nugu-Backend)
+
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![AWS Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
 
-**Key Contributions**:
-- Won Likelion Line 4 Hackthon 2024 Excellence Award 🏆
-- Implemented custom converter for array of quiz answers to String to prevent middle table in database
+A web platform allowing users to create and share personalized tests for self-introduction. Won Excellence Award at Likelion 12th 4호선 Hackathon.
+
+**Objectives:**
+- Create secure website with data encryption (UUID) and HTTPS
+- Deploy using Amazon EC2, Amazon RDS, Amazon Route53
+- Provide intuitive test creation and sharing functionality
+
+**Technical Contributions:**
+- Implemented custom converter for array of quiz answers to String to prevent creating middle table in database
 - Managed deployment process including SSL certificate for HTTPS
-- Deployed and managed Amazon EC2 server, Amazon RDS server, and Amazon Route53
-- Developed test service where users can create and share custom tests
+- Configured and managed Amazon EC2 server, Amazon RDS server, and Amazon Route53 for domain management
+- Developed test service where users can create custom tests, website visitors can take tests, with results rating and ranking
+- Optimized database queries using custom @Query annotations in TestRepository.java
+- Coordinated weekly development calls between frontend and backend teams
 
-### [식집사](https://github.com/chaeminyu/android-shick-jip) - Android App
-**2024.10 ~ 2024.12** | Full Stack Developer
+### 식집사 - Android App for Plant Care
+**2024.10 ~ 2024.12** | [GitHub Repository](https://github.com/chaeminyu/android-shick-jip)
 
-**Technologies**:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Room Database](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### [VOYAGE](https://github.com/Likelion-at-SMWU-12th/CheongpaGamja-Server) - Intergenerational Mentoring Platform
-**2024.7 ~ 2024.8** | Backend Developer
+A mobile application helping users care for their indoor plants with reminders and guidance.
 
-**Technologies**:
+**Key Features:**
+- Plant care calendar and notification system
+- Plant identification and care recommendations
+- Community feature for sharing plant care tips
+- Local storage for offline functionality
+
+**Technical Contributions:**
+- Designed and implemented the application UI/UX with Material Design principles
+- Developed backend services using Room Database for local storage
+- Created camera integration for plant photo capture
+- Implemented notification system for watering reminders
+
+### VOYAGE - Intergenerational Mentoring Platform
+**2024.7 ~ 2024.8** | [GitHub Repository](https://github.com/Likelion-at-SMWU-12th/CheongpaGamja-Server)
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 
-## 🛠️ Technical Skills
+A platform connecting generations for knowledge sharing and mentorship.
+
+**Key Features:**
+- User profiles with expertise tagging
+- Mentorship request and acceptance system
+- Message board for community interaction
+- Experience level matching algorithm
+
+**Technical Contributions:**
+- Developed RESTful API using Django REST Framework
+- Implemented Django ORM for efficient data querying and relationship management
+- Created user authentication and authorization system
+- Deployed application on AWS EC2 instance
+
+## 💻 Technical Skills
 
 ### Backend Development
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- **Languages**: Java, Python
+- **Frameworks**: Spring Boot, Django/DRF
+- **Databases**: MySQL, PostgreSQL
+- **APIs**: RESTful API design, OpenAI API integration
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+- **Cloud Services**: AWS (EC2, RDS, Route53, IAM, Systems Manager)
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: GitHub Actions, GitOps workflows
+- **Monitoring**: Grafana, Prometheus
 
 ### Mobile Development
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+- **Languages**: Kotlin
+- **Tools**: Android Studio
+- **Databases**: Room
 
 ### Tools & Others
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- **Version Control**: Git, GitHub
+- **Project Management**: Notion, Jira
+- **Design**: Figma
+- **Communication**: Slack, Microsoft Teams
 
-### Have Experience In
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-<img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
+## 📚 Education
 
-## 🗣️ Languages
-- Korean (Native)
-- English (Native)
+### Sookmyung Women's University
+**B.S. in Computer Science**
+Seoul, South Korea | Expected February 2026
+
+### International Community School (Singapore)
+Singapore | 2014 - 2016
+
+## 🌐 Languages
+
+- **Korean**: Native proficiency
+- **English**: Native proficiency
 
 ## 📜 Certificates & Awards
 
-![Likelion 13th](https://github.com/user-attachments/assets/45ce3347-83f9-40b6-934e-863bba1cec0c)
-![Likelion 12th](https://github.com/user-attachments/assets/9291cd32-b363-4939-89c4-f9b0bc775fb7)
-![4호선톤 우수상](https://github.com/user-attachments/assets/8fe6a1cc-4578-4f26-a7a3-24b2548540e3)
+- 멋쟁이사자처럼 13th 부회장 임명장
+  ![Likelion 13th](https://github.com/user-attachments/assets/45ce3347-83f9-40b6-934e-863bba1cec0c)
+
+- 멋쟁이사자처럼 12기 수료증
+  ![Likelion 12th](https://github.com/user-attachments/assets/9291cd32-b363-4939-89c4-f9b0bc775fb7)
+
+- 멋쟁이사자처럼 12기 4호선톤 우수상장
+  ![4호선톤 우수상](https://github.com/user-attachments/assets/8fe6a1cc-4578-4f26-a7a3-24b2548540e3)
+
+## 📞 Contact Me
+
+- **Email**: chaeminyu@sookmyung.ac.kr
+- **Phone**: (+82) 010-2936-2752
+- **LinkedIn**: [linkedin.com/in/chaeminyu](https://www.linkedin.com/in/chaeminyu/)
+- **GitHub**: [github.com/chaeminyu](https://github.com/chaeminyu)
