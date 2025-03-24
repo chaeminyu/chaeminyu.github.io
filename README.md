@@ -13,7 +13,7 @@ Backend developer and cloud engineering enthusiast with a focus on Spring Boot, 
 
 - 🎓 **Education**: Sookmyung Women's University, B.S. in Computer Science (Expected Feb 2026)
 - 🌐 **Languages**: Korean (Native), English (Native)
-- 🚀 **Strengths**: Cloud-native development, CI/CD automation, technical team leadership
+- 🚀 **Strengths**: Web Backend development, Cloud-native development, technical team leadership
 
 ## 👨‍💻 Professional Experience
 
@@ -30,6 +30,7 @@ Backend developer and cloud engineering enthusiast with a focus on Spring Boot, 
 
 | Duration | Organization | Role |
 |----------|--------------|------|
+| 2025.3 ~ Present | AWS Cloud Clubs 3rd SMWU | Member |
 | 2024.9 ~ 2024.12 | Google Developers Group on Campus Sookmyung | Machine Learning Member |
 | 2024.3 ~ 2024.12 | 멋쟁이사자처럼 Likelion 12th | Backend Developer |
 | 2022.3 ~ 2023.12 | 숙명여자대학교 소프트웨어학회 FORZA 27th | C Language Mentor |
@@ -124,12 +125,10 @@ A web platform allowing users to create and share personalized tests for self-in
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Room Database](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 A mobile application helping users care for their indoor plants with reminders and guidance.
 
 **Key Features:**
-- Plant care calendar and notification system
 - Plant identification and care recommendations
 - Community feature for sharing plant care tips
 - Local storage for offline functionality
@@ -151,7 +150,6 @@ A platform connecting generations for knowledge sharing and mentorship.
 
 **Key Features:**
 - User profiles with expertise tagging
-- Mentorship request and acceptance system
 - Message board for community interaction
 - Experience level matching algorithm
 
@@ -173,18 +171,12 @@ A platform connecting generations for knowledge sharing and mentorship.
 - **Cloud Services**: AWS (EC2, RDS, Route53, IAM, Systems Manager)
 - **Containerization**: Docker, Kubernetes
 - **CI/CD**: GitHub Actions, GitOps workflows
-- **Monitoring**: Grafana, Prometheus
-
-### Mobile Development
-- **Languages**: Kotlin
-- **Tools**: Android Studio
-- **Databases**: Room
 
 ### Tools & Others
 - **Version Control**: Git, GitHub
-- **Project Management**: Notion, Jira
+- **Project Management**: Notion
 - **Design**: Figma
-- **Communication**: Slack, Microsoft Teams
+- **Communication**: Slack, Discord
 
 ## 📚 Education
 
@@ -205,8 +197,12 @@ Singapore | 2014 - 2016
 - 멋쟁이사자처럼 13th 부회장 임명장
   ![Likelion 13th](https://github.com/user-attachments/assets/45ce3347-83f9-40b6-934e-863bba1cec0c)
 
+  
+
 - 멋쟁이사자처럼 12기 수료증
   ![Likelion 12th](https://github.com/user-attachments/assets/9291cd32-b363-4939-89c4-f9b0bc775fb7)
+
+  
 
 - 멋쟁이사자처럼 12기 4호선톤 우수상장
   ![4호선톤 우수상](https://github.com/user-attachments/assets/8fe6a1cc-4578-4f26-a7a3-24b2548540e3)
