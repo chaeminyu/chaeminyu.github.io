@@ -61,8 +61,8 @@ A platform connecting SMWU developers for mentorship and networking opportunitie
 
 **Key Features:**
 - Secure user authentication and profile management
-- Mentor-mentee matching algorithm
-- Real-time appointment scheduling system
+- Shows recent & popular keywords searched by users
+- match & chat with mentors based on user-made 'Career Cards'
 - Interactive community forums
 
 **Technical Contributions:**
