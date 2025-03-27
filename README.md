@@ -18,7 +18,7 @@ Backend developer and cloud engineering enthusiast with a focus on Spring Boot, 
 ## 👨‍💻 Professional Experience
 
 ### Likelion @ Sookmyung Women's University | Vice President & Backend Developer
-**2025.1 ~ Present**
+**2024.3 ~ Present**
 
 - Led recruitment initiatives resulting in the successful onboarding of 15 junior developers
 - Facilitated communication between executive board and general membership to maintain alignment with club objectives
